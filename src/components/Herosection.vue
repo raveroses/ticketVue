@@ -20,7 +20,7 @@
 import { useRouter } from "vue-router";
 
 export default {
-  name: "HeroSection",
+  name: "Herosection",
   setup() {
     const router = useRouter();
 

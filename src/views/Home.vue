@@ -8,12 +8,12 @@
 </template>
 
 <script>
-import HeroSection from "../components/HeroSection.vue";
+import Herosection from "../components/Herocection.vue";
 import Cards from "../components/Cards.vue";
 export default {
   name: "Home",
   components: {
-    HeroSection,
+    Herocection,
     Cards,
   },
 };
