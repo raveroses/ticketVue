@@ -76,7 +76,7 @@ export default {
       userLogin.value = { email: "", password: "" };
 
       setTimeout(() => {
-        router.push("/landingPage");
+        router.push("/");
       }, 1000);
     };
 
